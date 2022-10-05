@@ -10,4 +10,4 @@
    | `uint16_t` | 16 | 0, 1, ..., 65 535               | Unsigned 16-bit integer         |
    | `int16_t`  | 16 | -32 768, ..., 0, 1, ..., 32 767 | Signed 16-bit integer           |
    | `float`    | 32 | -3.4e+38, ..., 3.4e+38          | Single-precision floating-point |
-   | `void`     | 32/64 |                              | Depends on system |
+   | `void`     | 32/64 |                              | Depends on OS                   |
