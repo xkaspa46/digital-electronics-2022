@@ -14,7 +14,7 @@
 
 2. In `timer.h` header file, define macros also for Timer/Counter2. Listing of part of the header file with settings for Timer/Counter2. Always use syntax highlighting, meaningful comments, and follow C guidelines:
 
-   ```c
+```c
  /**
  * @name  Definitions for 8-bit Timer/Counter2
  * @note  t_OVF = 1/F_CPU * prescaler * 2^n where n = 8, F_CPU = 16 MHz
@@ -40,5 +40,4 @@
 #define TIM2_overflow_interrupt_enable()  TIMSK2 |= (1<<TOIE2);
 /** @brief Disable overflow interrupt, 0 --> disable */
 #define TIM2_overflow_interrupt_disable() TIMSK2 &= ~(1<<TOIE2);
-
-   ```
+```
