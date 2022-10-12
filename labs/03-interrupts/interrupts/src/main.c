@@ -35,11 +35,17 @@ int main(void)
 {
     // Set pins where LEDs are connected as output
     GPIO_mode_output(&DDRB, LED_GREEN);
+    GPIO_mode_output(&DDRB, LED_RED);
 
-    // Configuration of 16-bit Timer/Counter1 for LED blinking
+    // Configuration of 16-bit Timer/Counter1 for green LED blinking
     // Set the overflow prescaler to 262 ms and enable interrupt
     TIM1_overflow_262ms();
     TIM1_overflow_interrupt_enable();
+
+    // Configuration of 8-bit Timer/Counter0 for red LED blinking
+    // Set the overflow prescaler to 16 ms and enable interrupt
+    TIM2_overflow_16ms();
+    TIM2_overflow_interrupt_enable();
 
     // Enables interrupts by setting the global interrupt mask
     sei();
@@ -64,4 +70,24 @@ int main(void)
 ISR(TIMER1_OVF_vect)
 {
     PORTB = PORTB ^ (1<<LED_GREEN);
+}
+
+/* Interrupt service routines ----------------------------------------*/
+/**********************************************************************
+ * Function: Timer/Counter0 overflow interrupt
+ * Purpose:  Toggle external red LED.
+ **********************************************************************/
+ISR(TIMER0_OVF_vect)
+{
+    static uint8_t no_of_overflows = 0;
+
+    no_of_overflows++;
+    if (no_of_overflows >= 6)
+    {
+        PORTB = PORTB ^ (1<<LED_RED);
+        no_of_overflows = 0;
+    }
+    TCNT0 = 128;
+    // t_ovf = 1/16e6 * 1024 * 256 = 16ms
+    // t_ovf = 1/16e6 * 1024 * (256-128) = 8ms
 }
