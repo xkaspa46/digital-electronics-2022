@@ -10,7 +10,7 @@
    * SPI pins
    * external interrupt pins INT0, INT1
 
-   ![your figure](images/Board.png)
+   ![your figure](Board.png)
 
 ### I2C communication
 
