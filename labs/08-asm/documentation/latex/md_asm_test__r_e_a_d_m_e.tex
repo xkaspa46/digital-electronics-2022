@@ -1,0 +1,49 @@
+\hypertarget{md_asm_test__r_e_a_d_m_e_autotoc_md1}{}\doxysubsection{Instruction set}\label{md_asm_test__r_e_a_d_m_e_autotoc_md1}
+
+\begin{DoxyEnumerate}
+\item Complete the conversion table with selected instructions\+:
+\end{DoxyEnumerate}
+
+\tabulinesep=1mm
+\begin{longtabu}spread 0pt [c]{*{4}{|X[-1]}|}
+\hline
+\cellcolor{\tableheadbgcolor}\textbf{ {\bfseries{Instruction}}   }&\PBS\centering \cellcolor{\tableheadbgcolor}\textbf{ {\bfseries{Binary opcode}}   }&\PBS\centering \cellcolor{\tableheadbgcolor}\textbf{ {\bfseries{Hex opcode}}   }&\PBS\centering \cellcolor{\tableheadbgcolor}\textbf{ {\bfseries{Compiler Hex opcode}}    }\\\cline{1-4}
+\endfirsthead
+\hline
+\endfoot
+\hline
+\cellcolor{\tableheadbgcolor}\textbf{ {\bfseries{Instruction}}   }&\PBS\centering \cellcolor{\tableheadbgcolor}\textbf{ {\bfseries{Binary opcode}}   }&\PBS\centering \cellcolor{\tableheadbgcolor}\textbf{ {\bfseries{Hex opcode}}   }&\PBS\centering \cellcolor{\tableheadbgcolor}\textbf{ {\bfseries{Compiler Hex opcode}}    }\\\cline{1-4}
+\endhead
+{\ttfamily add r24, r0}   &\PBS\centering {\ttfamily 0000\+\_\+1101\+\_\+1000\+\_\+0000}   &\PBS\centering {\ttfamily 0d 80}   &\PBS\centering {\ttfamily 80 0d}    \\\cline{1-4}
+{\ttfamily com r26}   &\PBS\centering {\ttfamily 1001\+\_\+0101\+\_\+1010\+\_\+0000}   &\PBS\centering {\ttfamily 95 a0}   &\PBS\centering {\ttfamily a0 95}    \\\cline{1-4}
+{\ttfamily eor r26, r27}   &\PBS\centering {\ttfamily 0010\+\_\+0111\+\_\+1010\+\_\+1011}   &\PBS\centering {\ttfamily 27 ab}   &\PBS\centering {\ttfamily ab 27}    \\\cline{1-4}
+{\ttfamily mul r22, r20}   &\PBS\centering {\ttfamily 1001\+\_\+1111\+\_\+0110\+\_\+0100}   &\PBS\centering {\ttfamily 9f 64}   &\PBS\centering {\ttfamily 64 9f}    \\\cline{1-4}
+{\ttfamily ret}   &\PBS\centering {\ttfamily 1001\+\_\+0101\+\_\+0000\+\_\+1000}   &\PBS\centering {\ttfamily 95 08}   &\PBS\centering {\ttfamily 08 95}   \\\cline{1-4}
+\end{longtabu}
+\hypertarget{md_asm_test__r_e_a_d_m_e_autotoc_md2}{}\doxysubsection{4-\/bit LFSR}\label{md_asm_test__r_e_a_d_m_e_autotoc_md2}
+
+\begin{DoxyEnumerate}
+\item Complete table with 4-\/bit LFSR values for different Tap positions\+:
+\end{DoxyEnumerate}
+
+\tabulinesep=1mm
+\begin{longtabu}spread 0pt [c]{*{3}{|X[-1]}|}
+\hline
+\PBS\centering \cellcolor{\tableheadbgcolor}\textbf{ {\bfseries{Tap position}}   }&\cellcolor{\tableheadbgcolor}\textbf{ {\bfseries{Generated values}}   }&\PBS\centering \cellcolor{\tableheadbgcolor}\textbf{ {\bfseries{Length}}    }\\\cline{1-3}
+\endfirsthead
+\hline
+\endfoot
+\hline
+\PBS\centering \cellcolor{\tableheadbgcolor}\textbf{ {\bfseries{Tap position}}   }&\cellcolor{\tableheadbgcolor}\textbf{ {\bfseries{Generated values}}   }&\PBS\centering \cellcolor{\tableheadbgcolor}\textbf{ {\bfseries{Length}}    }\\\cline{1-3}
+\endhead
+\PBS\centering 4, 3   &{\ttfamily 0 1 3 7 14 13 11 6 12 9 2 5 10 4 8}   &\PBS\centering {\ttfamily 15}    \\\cline{1-3}
+\PBS\centering 4, 2   &{\ttfamily 0 1 3 6 12 8}   &\PBS\centering {\ttfamily 6}    \\\cline{1-3}
+\PBS\centering 4, 1   &{\ttfamily 0 1 2 5 10 4 9 3 6 13 11 7 14 12 8}   &\PBS\centering {\ttfamily 15}   \\\cline{1-3}
+\end{longtabu}
+\hypertarget{md_asm_test__r_e_a_d_m_e_autotoc_md3}{}\doxysubsection{Variable number of short pulses}\label{md_asm_test__r_e_a_d_m_e_autotoc_md3}
+
+\begin{DoxyEnumerate}
+\item Draw a flowchart of function {\ttfamily void burst\+\_\+c(uint8\+\_\+t number)} which generates a variable number of short pulses at output pin. Let the pulse width be the shortest one. The image can be drawn on a computer or by hand. Use clear descriptions of the individual steps of the algorithms.
+
+!\mbox{[}your figure\mbox{]}() 
+\end{DoxyEnumerate}
