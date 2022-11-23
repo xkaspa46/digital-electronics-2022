@@ -2,10 +2,9 @@
 
 ### Team members
 
-* Member 1 (responsible for xxx)
-* Member 2 (responsible for xxx)
-* Member 3 (responsible for xxx)
-* ...
+* Tomáš Kašpar (responsible for xxx)
+* Dušan Kratochvíl (responsible for xxx)
+
 
 Link to this file in your GitHub repository:
 
