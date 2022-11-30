@@ -14,7 +14,7 @@ Link to this file in your GitHub repository:
 
 * [Project objectives](#objectives)
 * [Hardware description](#hardware)
-* [Libraries description](#libs)
+* [Libraries and description of their usage](#libs)
 * [Main application](#main)
 * [Video](#video)
 * [References](#references)
@@ -43,9 +43,13 @@ Then the coding itself:
 
 ## Hardware description
 * Analog Joystick
+*něco na joystick* 
 * Rotary encoder
+*něco na encoder* 
 * Digilent PmodCLP LCD module
+*něco na LCD* 
 * Arduino UNO
+*něco na Arduino* 
  
 <a name="libs"></a>
 
