@@ -51,7 +51,9 @@ Then the coding itself:
 
 ## Libraries description
 
-Write your text here.
+* GPIO
+* LCD
+* Timer 
 
 <a name="main"></a>
 
