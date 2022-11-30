@@ -1,4 +1,4 @@
-# YOUR_PROJECT_TITLE
+# Communication with multiple modules
 
 ### Team members
 
@@ -28,8 +28,9 @@ Write your text here.
 <a name="hardware"></a>
 
 ## Hardware description
-
-Write your text here.
+* Analog Joystick
+* Rotary encoder
+* LCD display
 
 <a name="libs"></a>
 
