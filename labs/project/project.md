@@ -26,9 +26,9 @@ Link to this file in your GitHub repository:
 Applicaton of modules was set in this order:
 
 **Communication with**
-  * LCD display
-  * Analog joystick
-  * Rotary encoder
+  - LCD display
+  - Analog joystick
+  - Rotary encoder
 Then the coding itself:
 - Joystick
   * Mapping current position depending on rotation of joystick
