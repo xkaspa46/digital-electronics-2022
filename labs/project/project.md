@@ -54,7 +54,7 @@ Then the coding itself:
 
    | **Library name** | **Brief description** | **Usage in our code** |
    | :-: | :-: | :-: |
-   | GPIO  | TBD | Setting Input/Output of a pin and reading its values                       |
+   | GPIO  | High performance digital pin access | Setting Input/Output of a pin and reading its values |
    | LCD   | TBD | Initialization of module itself, writing values/strings on exact positions |
    | Timer | Hardware block within an MCU and can be used to measure time events | Determination of refresh time of display and code cycle, interrupt `sei()` |
    | AVR   | TBD | Basic functions for working with registers |
@@ -76,4 +76,4 @@ Write your text here
 
 ## References
 
-1. Write your text here.
+[1. GPIO](https://github.com/mikaelpatel/Arduino-GPIO)
