@@ -57,7 +57,7 @@ Then the coding itself:
    | GPIO  | TBD | Setting Input/Output of a pin and reading its values                       |
    | LCD   | TBD | Initialization of module itself, writing values/strings on exact positions |
    | Timer | Hardware block within an MCU and can be used to measure time events | Determination of refresh time of display and code cycle, interrupt `sei()` |
-   | AVR   | TBD |  |
+   | AVR   | TBD | Basic functions for working with registers |
 
 
 <a name="main"></a>
