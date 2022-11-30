@@ -56,7 +56,7 @@ Then the coding itself:
    | :-: | :-: | :-: |
    | GPIO  | TBD | Setting Input/Output of a pin and reading its values                       |
    | LCD   | TBD | Initialization of module itself, writing values/strings on exact positions |
-   | Timer | TBD | Determination of refresh time of display and code cycle, interrupt 'sei' |
+   | Timer | TBD | Determination of refresh time of display and code cycle, interrupt `sei()` |
    | AVR   | TBD |  |
 
 
