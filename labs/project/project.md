@@ -24,19 +24,18 @@ Link to this file in your GitHub repository:
 ## Project objectives
 
 Applicaton of modules was set in this order:
-
 - **Communication with**
   * LCD display
   * Analog joystick
   * Rotary encoder
 Then the coding itself:
-- Joystick
+- **Joystick**
   * Mapping current position depending on rotation of joystick
   * Pushbutton function
-- Encoder
+- **Encoder**
   * Spin (counter)clockwise - UP/DOWN counter
   * Alphabetical increment and counter
-- LCD module
+- **LCD module**
   * Display of functions
 
 
