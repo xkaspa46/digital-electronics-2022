@@ -26,14 +26,25 @@ Link to this file in your GitHub repository:
 Applicaton of modules was set in this order:
 - Communication with
   * LCD display
-  * Joystick
+  * Analog joystick
+  * Rotary encoder
+Then the coding itself:
+- Joystick
+  * Mapping current position depending on rotation of joystick
+  * Pushbutton function
+- Encoder
+  * Spin (counter)clockwise - UP/DOWN counter
+  * Alphabetical increment and counter
+- LCD module
+  * Display of functions
+
 
 <a name="hardware"></a>
 
 ## Hardware description
 * Analog Joystick
 * Rotary encoder
-* LCD display
+* Digilent PmodCLP LCD module
 * Arduino UNO
 * 
 <a name="libs"></a>
