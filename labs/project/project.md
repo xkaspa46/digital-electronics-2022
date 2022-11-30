@@ -43,12 +43,19 @@ Then the coding itself:
 
 ## Hardware description
 * Analog Joystick
+
 *něco na joystick* 
+
 * Rotary encoder
+
 *něco na encoder* 
+
 * Digilent PmodCLP LCD module
+
 *něco na LCD* 
+
 * Arduino UNO
+
 *něco na Arduino* 
  
 <a name="libs"></a>
