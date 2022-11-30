@@ -2,8 +2,8 @@
 
 ### Team members
 
-* Tomáš Kašpar (responsible for xxx)
-* Dušan Kratochvíl (responsible for xxx)
+* Tomáš Kašpar (responsible for coding)
+* Dušan Kratochvíl (responsible for documentation and voice narration)
 
 
 Link to this file in your GitHub repository:
@@ -23,7 +23,9 @@ Link to this file in your GitHub repository:
 
 ## Project objectives
 
-Write your text here.
+Applicaton of modules was set in this order:
+* Communication with
+_*_ smth
 
 <a name="hardware"></a>
 
@@ -31,7 +33,8 @@ Write your text here.
 * Analog Joystick
 * Rotary encoder
 * LCD display
-
+* Arduino UNO
+* 
 <a name="libs"></a>
 
 ## Libraries description
