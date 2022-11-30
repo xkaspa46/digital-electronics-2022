@@ -24,8 +24,8 @@ Link to this file in your GitHub repository:
 ## Project objectives
 
 Applicaton of modules was set in this order:
-* Communication with
- - smth
+- Communication with
+ * LCD display
 
 <a name="hardware"></a>
 
