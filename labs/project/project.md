@@ -25,7 +25,8 @@ Link to this file in your GitHub repository:
 
 Applicaton of modules was set in this order:
 - Communication with
- * LCD display
+  * LCD display
+  * Joystick
 
 <a name="hardware"></a>
 
