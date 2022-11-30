@@ -46,7 +46,7 @@ Then the coding itself:
 * Rotary encoder
 * Digilent PmodCLP LCD module
 * Arduino UNO
-* 
+ 
 <a name="libs"></a>
 
 ## Libraries description
