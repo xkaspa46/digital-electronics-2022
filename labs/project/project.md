@@ -54,9 +54,9 @@ Then the coding itself:
 
    | **Library name** | **Brief description** | **Usage in our code** |
    | :-: | :-: | :-: |
-   | GPIO  | TBD | Setting Input/Output of a pin and reading of values   |
-   | LCD   | TBD |  |
-   | Timer | TBD |  |
+   | GPIO  | TBD | Setting Input/Output of a pin and reading its values                       |
+   | LCD   | TBD | Initialization of module itself, writing values/strings on exact positions |
+   | Timer | TBD | Determination of refresh time of display and code cycle, interrupt 'sei' |
    | AVR   | TBD |  |
 
 
