@@ -49,11 +49,22 @@ Then the coding itself:
  
 <a name="libs"></a>
 
-## Libraries description
+## Libraries and description of their usage
 
-* GPIO
+- GPIO
+Geneal Pin Input Output
+
 * LCD
-* Timer 
+* Timer
+* AVR 
+
+   | **Library name** | **Brief description** | **Usage in our code** |
+   | :-: | :-: | :-: |
+   | GPIO  | TBD | Analog to Digital conversion from joystick VRx/VRy signals   |
+   | LCD   | TBD |  |
+   | Timer | TBD |  |
+   | AVR   |     |  |
+
 
 <a name="main"></a>
 
