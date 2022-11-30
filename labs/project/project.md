@@ -25,8 +25,7 @@ Link to this file in your GitHub repository:
 
 Applicaton of modules was set in this order:
 
-**Communication with
-
+**Communication with**
   * LCD display
   * Analog joystick
   * Rotary encoder
