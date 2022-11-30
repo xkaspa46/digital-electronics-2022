@@ -51,19 +51,13 @@ Then the coding itself:
 
 ## Libraries and description of their usage
 
-- GPIO
-Geneal Pin Input Output
-
-* LCD
-* Timer
-* AVR 
 
    | **Library name** | **Brief description** | **Usage in our code** |
    | :-: | :-: | :-: |
-   | GPIO  | TBD | Analog to Digital conversion from joystick VRx/VRy signals   |
+   | GPIO  | TBD | Setting Input/Output of a pin and reading of values   |
    | LCD   | TBD |  |
    | Timer | TBD |  |
-   | AVR   |     |  |
+   | AVR   | TBD |  |
 
 
 <a name="main"></a>
