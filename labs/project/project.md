@@ -48,7 +48,7 @@ Then the coding itself:
 <a name="hardware"></a>
 
 ## Brief hardware description
-# Analog Joystick
+* **Analog Joystick**
 
 *něco na joystick* 
 
