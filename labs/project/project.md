@@ -79,7 +79,19 @@ We can use the picture below in order to understand a simple working principle o
 
 ![EncoderWork](pictures/EncoderWork.png)
 
-> The encoder is made out of disk with evenly spaced contact zones which are connected to a common C pin and two other separate contact pins.
+> The encoder is made out of disk with evenly spaced contact zones which are connected to a common C pin and two other separate contact pins. -Reference no.4
+
+The desired outcome are two output square wave signals (A & B) muttualy phased by 90 degrees:
+Opposite values - if the rotation was clockwise
+Same values     - if the rotation was counter clockwise
+
+The sample of a combination is only taken after an edge has occured within signal A as shown in the imageS
+![EncoderPhase](pictures/EncoderPhase.png)
+
+
+*Our wiring of an **encoder**:*
+
+![JoystickPinout](pictures/EncoderPinout.png)
 
 * **Digilent PmodCLP LCD module**
 
