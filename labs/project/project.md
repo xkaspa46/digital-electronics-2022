@@ -139,6 +139,9 @@ Their biggest advantage is a considerably small energy consumption and therefor 
 
 ### Joystick
 
+#### Position map
+
+
 <a name="video"></a>
 
 ## Video
