@@ -55,7 +55,7 @@ This section is reserved for a short description of each element our project is 
 
 It is a development board consisting of ATmega328 microcontroller, 14 digital GPIO pins (6 PWM), 6 analog input pins, 16 MHz crystal oscilator, built-in pre-defined UART etc. Programmed via USB 2.0, it has 32 kB flash memory (0.5 kB for bootloader). 
 
-We can see a look of the board below:
+*We can see a look of the board below:*
 
 ![Arduino](pictures/ArduinoBoard.png)
 
@@ -69,7 +69,7 @@ Look of Joystick board:
 
 The constroction itself consists of two potentiometers of 10 kΩ resistivity and pushbutton. It follows that in normal state, both of potentiometers should be in half of their resistivity range which changes with motion in either X or Y direction. The communication with controller is secured by the change of voltage/s.
 
-Our wiring of an analog **joystick**.
+*Our wiring of an analog **joystick**:*
 
 ![JoystickPinout](pictures/JoystickPinout.png)
 
