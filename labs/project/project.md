@@ -135,7 +135,9 @@ Their biggest advantage is a considerably small energy consumption and therefor 
 
 ## Functions
 
-Write your text here.
+<a name="joystick"></a>
+
+### Joystick
 
 <a name="video"></a>
 
