@@ -146,6 +146,8 @@ Both rising/falling values have an intuitive working mechanism. With a certain i
 
 ![Joystickgif](pictures/joy.gif)
 
+*for a repeat of the sequence please click on the gif or refresh the page*
+
 <a name="video"></a>
 
 ## Video
