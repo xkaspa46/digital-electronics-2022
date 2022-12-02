@@ -55,10 +55,9 @@ This section is reserved for a short description of each element our project is 
 
 It is a development board consisting of ATmega328 microcontroller, 14 digital GPIO pins (6 PWM), 6 analog input pins, 16 MHz crystal oscilator, built-in pre-defined UART etc. Programmed via USB 2.0, it has 32 kB flash memory (0.5 kB for bootloader).
 
+*Arduino UNO board*
 ![Arduino](pictures/ArduinoBoard.png)
 
-
-                  Arduino UNO board
 
 * **Analog Joystick**
 
