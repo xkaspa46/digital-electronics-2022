@@ -139,8 +139,12 @@ Their biggest advantage is a considerably small energy consumption and therefor 
 
 ### Joystick
 * **Position map**
-First of our described functions is situated on the very left side of the display where it shows us via "x:___" and "y:____"
+First of our described functions is situated on the very left side of the display where it shows us via **x:___** and **y:___** corresponding coordinates on an imaginary map. These coordinates are naturally equal to the value meassured by analog inputs **A0** and **A1**. Meassured value can only be from a scale from 0 to 1024. 
 
+Both rising/falling values have an intuitive working mechanism. With a certain inaccuracy in real implemantation - a starting value on *x* and *y* is 511 as shown in a simulation. Moving the joystick to the right, we are incrementing an **x** value. Naturally its decreasing turning the joystick left. Analogically, the **y** value changes with up/down direction.
+
+
+![JoystickPinout](pictures/Joystick.mp4)
 
 <a name="video"></a>
 
