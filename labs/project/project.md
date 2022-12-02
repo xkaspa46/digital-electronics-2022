@@ -15,7 +15,13 @@ Link to this file in your GitHub repository:
 * [Project objectives](#objectives)
 * [Hardware description](#hardware)
 * [Libraries and description of their usage](#libs)
-* [Main application](#main)
+* [Functions](#functions)
+ * Joystick 
+  * Position map
+  * Button detection
+ * Encrypter
+  * Value counter up/down
+  * Alphabet
 * [Video](#video)
 * [References](#references)
 
@@ -65,15 +71,15 @@ Then the coding itself:
 
    | **Library name** | **Brief description** | **Usage in our code** |
    | :-: | :-: | :-: |
-   | GPIO  | High performance digital pin access | Setting Input/Output of a pin and reading its values |
+   | GPIO  | Allowing high performance digital pin access | Setting Input/Output of a pin and reading its values |
    | LCD   | TBD | Initialization of module itself, writing values/strings on exact positions |
    | Timer | Hardware block within an MCU and can be used to measure time events | Determination of refresh time of display and code cycle, interrupt `sei()` |
    | AVR   | TBD | Basic functions for working with registers |
 
 
-<a name="main"></a>
+<a name="functions"></a>
 
-## Main application
+## Functions
 
 Write your text here.
 
