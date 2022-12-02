@@ -95,7 +95,7 @@ The sample of a combination is only taken after an edge has occured within signa
 
 * **Digilent PmodCLP LCD module**
 
-*něco na LCD* 
+We are talking about an LCD module that uses its own controller for an easier integration. Positions count up to 32 character in 16 columns and 2 rows. There are 192 predefined characters (93 ASCII) and optionally add-able custom ones.
  
 <a name="libs"></a>
 
@@ -131,3 +131,4 @@ Write your text here
 * [3. Joystick](https://navody.dratek.cz/navody-k-produktum/arduino-joystick-ps2.html)
 * [4. Encoder](https://howtomechatronics.com/tutorials/arduino/rotary-encoder-works-use-arduino/?fbclid=IwAR1UxOQv36Y3HIfpMDaVhkYf1JpnIz0Ywbn_U0N9zagLQHEsaXvEKFfGdwQ)
 * [4. Encoder](https://howtomechatronics.com/tutorials/arduino/rotary-encoder-works-use-arduino/?fbclid=IwAR1UxOQv36Y3HIfpMDaVhkYf1JpnIz0Ywbn_U0N9zagLQHEsaXvEKFfGdwQ)
+* [5. Digilent official website](https://projects.digilentinc.com/products/pmod-clp)
