@@ -47,22 +47,28 @@ Then the coding itself:
 
 <a name="hardware"></a>
 
-## Brief hardware description
+## Brief hardware description and schematics
+
+This section is reserved for a short description of each element our project is composed of. It also includes separated wiring schemes corresponding to each one of used hardware for better orientation.
+
+* **Arduino UNO**
+
+It is a development board consisting of ATmega328 microcontroller, 14 digital GPIO pins (6 PWM), 6 analog input pins, 16 MHz crystal oscilator, built-in pre-defined UART etc. Programmed via USB 2.0, it has 32 kB flash memory (0.5 kB for bootloader).
+
+![Arduino](pictures/ArduinoBoard.jpg)
+*Arduino UNO board*
+
 * **Analog Joystick**
 
 *něco na joystick* 
 
-* Rotary encoder
+* **Rotary encoder**
 
 *něco na encoder* 
 
-* Digilent PmodCLP LCD module
+* **Digilent PmodCLP LCD module**
 
 *něco na LCD* 
-
-* Arduino UNO
-
-*něco na Arduino* 
  
 <a name="libs"></a>
 
@@ -94,4 +100,4 @@ Write your text here
 ## References
 
 * [1. GPIO](https://github.com/mikaelpatel/Arduino-GPIO)
-* [2. doc.Fryza DE2 - 2022 Labs](https://github.com/tomas-fryza/digital-electronics-2/tree/master/labs/03-interrupts)
+* [2. doc.Fryza DE2 - 2022 Labs](https://github.com/tomas-fryza/digital-electronics-2/tree/master/labs)
