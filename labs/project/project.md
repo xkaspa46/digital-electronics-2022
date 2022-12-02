@@ -114,9 +114,9 @@ Their biggest advantage is a considerably small energy consumption and therefor 
    | **Library name** | **Brief description** | **Usage in our code** |
    | :-: | :-: | :-: |
    | GPIO  | Allowing high performance digital pin access | Setting Input/Output of a pin and reading its values |
-   | LCD   | TBD | Initialization of module itself, writing values/strings on exact positions |
+   | LCD   | Necessary functions for controlling the display | Initialization of module itself, writing values/strings on exact positions |
    | Timer | Hardware block within an MCU and can be used to measure time events | Determination of refresh time of display and code cycle, interrupt `sei()` |
-   | AVR   | TBD | Basic functions for working with registers |
+   | AVR   | Predefined library of AVR microcontrollers | Basic functions for working with registers |
 
 
 <a name="functions"></a>
