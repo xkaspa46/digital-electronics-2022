@@ -96,6 +96,10 @@ The sample of a combination is only taken after an edge has occured within signa
 * **Digilent PmodCLP LCD module**
 
 We are talking about an LCD module that uses its own controller for an easier integration. Positions count up to 32 character in 16 columns and 2 rows. There are 192 predefined characters (93 ASCII) and optionally add-able custom ones.
+
+**LCD displays in general:**
+LiquidCrystalDisplay is a thin and flat device consisting of terminal count og colourful or monochromatic pixels lined in front of a light source/reflector. Every pixel is then made of liquid crystal molecules stored between two transparent electrodes and two polarization filtres. 
+Their biggest advantage is a considerably small energy consumption and therefor are great for devices running on battery supply. 
  
 <a name="libs"></a>
 
