@@ -138,8 +138,8 @@ Their biggest advantage is a considerably small energy consumption and therefor 
 <a name="joystick"></a>
 
 ### Joystick
-
-#### Position map
+* **Position map**
+First of our described functions is situated on the very left side of the display where it shows us via "x:___" and "y:____"
 
 
 <a name="video"></a>
