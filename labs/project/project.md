@@ -14,6 +14,10 @@ Link to this file in your GitHub repository:
 
 * [Project objectives](#objectives)
 * [Hardware](#hardware)
+  * [Arudino](#arduinoHW)
+  * [Joystick](#joystickHW)
+  * [Encoder](#encoderHW)
+  * [LCD module](#LCDHW)
 * [Libraries and description of their usage](#libs)
 * [Functions](#functions)
   * [Joystick](#joystick)
