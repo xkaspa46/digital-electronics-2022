@@ -13,7 +13,7 @@ Link to this file in your GitHub repository:
 ### Table of contents
 
 * [Project objectives](#objectives)
-* [Hardware description](#hardware)
+* [Hardware](#hardware)
 * [Libraries and description of their usage](#libs)
 * [Functions](#functions)
   * [Joystick](#joystick)
@@ -47,8 +47,8 @@ Then the coding itself:
 
 <a name="hardware"></a>
 
-## Hardware description
-* Analog Joystick
+## Brief hardware description
+# Analog Joystick
 
 *něco na joystick* 
 
