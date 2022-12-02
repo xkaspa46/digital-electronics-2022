@@ -16,12 +16,12 @@ Link to this file in your GitHub repository:
 * [Hardware description](#hardware)
 * [Libraries and description of their usage](#libs)
 * [Functions](#functions)
- * Joystick 
-  * Position map
-  * Button detection
- * Encrypter
-  * Value counter up/down
-  * Alphabet
+  * [Joystick](#joystick)
+    * [Position map](#positionmap)
+    * Button detection
+  * Encrypter
+    * Value counter up/down
+    * Alphabet
 * [Video](#video)
 * [References](#references)
 
