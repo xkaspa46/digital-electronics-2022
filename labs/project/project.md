@@ -57,7 +57,7 @@ It is a development board consisting of ATmega328 microcontroller, 14 digital GP
 
 *We can see a look of the board below:*
 
-![Arduino](pictures/ArduinoBoard.jpg)
+![Arduino](pictures/ArduinoBoard2.jpg)
 
 * **Analog Joystick**
 
