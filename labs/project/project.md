@@ -51,6 +51,8 @@ Then the coding itself:
 
 This section is reserved for a short description of each element our project is composed of. It also includes separated wiring schemes corresponding to each one of used hardware for better orientation.
 
+<a name="arduinoHW"></a>
+
 ### Arduino UNO
 
 It is a development board consisting of ATmega328 microcontroller, 14 digital GPIO pins (6 PWM), 6 analog input pins, 16 MHz crystal oscilator, built-in pre-defined UART etc. Programmed via USB 2.0, it has 32 kB flash memory (0.5 kB for bootloader). 
@@ -58,6 +60,8 @@ It is a development board consisting of ATmega328 microcontroller, 14 digital GP
 *We can see a look of the board below:*
 
 ![Arduino](pictures/ArduinoBoard2.jpg)
+
+<a name="joystickHW"></a>
 
 ### Analog Joystick
 
@@ -72,6 +76,8 @@ The constroction itself consists of two potentiometers of 10 kΩ resistivity and
 *Our wiring of an analog **joystick**:*
 
 ![JoystickPinout](pictures/JoystickPinout.png)
+
+<a name="encoderHW"></a>
 
 ### Rotary encoder
 
@@ -92,6 +98,8 @@ The sample of a combination is only taken after an edge has occured within signa
 *Our wiring of an **encoder**:*
 
 ![JoystickPinout](pictures/EncoderPinout.png)
+
+<a name="LCDHW"></a>
 
 ### Digilent PmodCLP LCD module
 
