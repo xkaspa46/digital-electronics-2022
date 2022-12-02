@@ -18,10 +18,10 @@ Link to this file in your GitHub repository:
 * [Functions](#functions)
   * [Joystick](#joystick)
     * [Position map](#positionmap)
-    * Button detection
-  * Encrypter
-    * Value counter up/down
-    * Alphabet
+    * [Button detection](#buttondetect)
+  * [Encoder](#encoder)
+    * [Value counter up/down](#counter)
+    * [Alphabet](#alphabet)
 * [Video](#video)
 * [References](#references)
 
