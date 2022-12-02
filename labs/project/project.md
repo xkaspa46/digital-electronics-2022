@@ -61,7 +61,17 @@ We can see a look of the board below:
 
 * **Analog Joystick**
 
-*něco na joystick* 
+Modules which allows us to monitor a motion of two directions. These directions information is converted  into "position signals" corresponding to X and Y axis. Therefor we have VRx pin for **X-axis** output and similarly **Y-axis**.
+
+Look of Joystick board:
+
+![Joystick](pictures/Joystick.jpg)
+
+The constroction itself consists of two potentiometers of 10 kΩ resistivity and pushbutton. It follows that in normal state, both of potentiometers should be in half of their resistivity range which changes with motion in either X or Y direction. The communication with controller is secured by the change of voltage/s.
+
+Our wiring of an analog **joystick**.
+
+![JoystickPinout](pictures/JoystickPinout.png)
 
 * **Rotary encoder**
 
