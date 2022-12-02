@@ -65,7 +65,7 @@ Modules which allows us to monitor a motion of two directions. These directions 
 
 *Look of **Joystick board**:*
 
-![Joystick](pictures/Joystick.jpg | width=100)
+![Joystick](pictures/Joystick.jpg)
 
 The constroction itself consists of two potentiometers of 10 kΩ resistivity and pushbutton. It follows that in normal state, both of potentiometers should be in half of their resistivity range which changes with motion in either X or Y direction. The communication with controller is secured by the change of voltage/s.
 
