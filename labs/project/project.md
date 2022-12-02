@@ -63,7 +63,7 @@ It is a development board consisting of ATmega328 microcontroller, 14 digital GP
 
 Modules which allows us to monitor a motion of two directions. These directions information is converted  into "position signals" corresponding to X and Y axis. Therefor we have VRx pin for **X-axis** output and similarly **Y-axis**.
 
-Look of Joystick board:
+*Look of **Joystick board**:*
 
 ![Joystick](pictures/Joystick.jpg)
 
