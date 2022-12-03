@@ -155,7 +155,8 @@ Their biggest advantage is a considerably small energy consumption and therefor 
 
 ### Software flowcharts
 
-*Note: Flowcharts 2-4 are all part of a one function but -again- are separated for better orientation*
+* *Note: Flowcharts 2-4 are all part of a one function but -again- are separated for better orientation*
+* *Also for all applications, we use TIM1_overflow_33ms() *
 
 ![Flowchar1](pictures/flow1.png)
 
