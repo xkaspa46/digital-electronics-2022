@@ -234,8 +234,7 @@ https://user-images.githubusercontent.com/99370863/205442841-79843f0c-ba55-4371-
 ## References
 
 * [1. GPIO](https://github.com/mikaelpatel/Arduino-GPIO)
-* [2. doc.Fryza DE2 - 2022 Labs](https://github.com/tomas-fryza/digital-electronics-2/tree/master/labs)
+* [2. doc. Ing. Fryza Ph.D. DE2 - 2022 Labs](https://github.com/tomas-fryza/digital-electronics-2/tree/master/labs)
 * [3. Joystick](https://navody.dratek.cz/navody-k-produktum/arduino-joystick-ps2.html)
-* [4. Encoder](https://howtomechatronics.com/tutorials/arduino/rotary-encoder-works-use-arduino/?fbclid=IwAR1UxOQv36Y3HIfpMDaVhkYf1JpnIz0Ywbn_U0N9zagLQHEsaXvEKFfGdwQ)
 * [4. Encoder](https://howtomechatronics.com/tutorials/arduino/rotary-encoder-works-use-arduino/?fbclid=IwAR1UxOQv36Y3HIfpMDaVhkYf1JpnIz0Ywbn_U0N9zagLQHEsaXvEKFfGdwQ)
 * [5. Digilent official website](https://projects.digilentinc.com/products/pmod-clp)
