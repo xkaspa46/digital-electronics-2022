@@ -152,7 +152,11 @@ https://user-images.githubusercontent.com/99370863/205430658-16d1d8f1-224c-498b-
 
 <a name="buttondetect"></a>
 * **Button detection**
+Next to the left side of the BUT logo, we have our second function associated with the joystick. This time, it has to be pushed down in order to detect a voltage change. Once detected, the controller is told to change the current state of a segment to the second one (either 0 or 1).
 
+*Simulation of a function in SimulIDE:*
+
+https://user-images.githubusercontent.com/99370863/205431073-c662d4a0-6c09-45bc-9896-29555971c14c.mp4
 
 <a name="video"></a>
 
