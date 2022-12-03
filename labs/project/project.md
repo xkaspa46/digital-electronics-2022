@@ -184,6 +184,29 @@ https://user-images.githubusercontent.com/99370863/205430658-16d1d8f1-224c-498b-
 
 https://user-images.githubusercontent.com/99370863/205431073-c662d4a0-6c09-45bc-9896-29555971c14c.mp4
 
+<a name="encoder"></a>
+
+### Encoder
+
+<a name="counter"></a>
+
+* **Value counter up/down**
+  * Function is explained within its own name. 
+  * Rotating the encoder clockwise will always count +1 to the current value. Counter clockwise rotation decreases the value by -1.
+
+
+*Simulation of a function in SimulIDE:*
+
+https://user-images.githubusercontent.com/99370863/205442559-910f5966-f50c-4c51-bd81-93691db9016d.mp4
+
+<a name="alphabet"></a>
+
+* **Alphabet**
+
+
+-------NĚCO NA ABECEDU-----
+
+
 <a name="video"></a>
 
 ## Video
