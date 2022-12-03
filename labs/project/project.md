@@ -8,7 +8,7 @@
 
 Link to this file in your GitHub repository:
 
-[https://github.com/xkaspa46/digital-electronics-2022/blob/main/labs/project/project.md](https://github.com/...)
+[Project]([https://github.com/...](https://github.com/xkaspa46/digital-electronics-2022/blob/main/labs/project/project.md))
 
 ### Table of contents
 
