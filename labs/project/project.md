@@ -18,7 +18,7 @@ Link to this file in your GitHub repository:
   * [Joystick](#joystickHW)
   * [Encoder](#encoderHW)
   * [LCD module](#LCDHW)
-* [Libraries and description of their usage](#libs)
+* [Software and libraries](#libs)
 * [Functions](#functions)
   * [Joystick](#joystick)
     * [Position map](#positionmap)
@@ -120,8 +120,7 @@ Their biggest advantage is a considerably small energy consumption and therefor 
 
 <a name="libs"></a>
 
-## Libraries and description of their usage
-
+## Software and libraries
 
    | **Library name** | **Brief description** | **Usage in our code** |
    | :-: | :-: | :-: |
@@ -130,6 +129,33 @@ Their biggest advantage is a considerably small energy consumption and therefor 
    | Timer | Hardware block within an MCU and can be used to measure time events | Determination of refresh time of display and code cycle, interrupt `sei()` |
    | AVR   | Predefined library of AVR microcontrollers | Basic functions for working with registers |
 
+
+### Source files & libraries
+
+ 1. **Timer:** [timer.h](https://github.com/xkrato62/Digital-electronics_2/blob/main/Labs/Project1/Project1/include/timer.h)
+ 2. **Gpio:** [gpio.c](https://github.com/xkrato62/Digital-electronics_2/blob/main/Labs/Project1/Project1/lib/gpio/gpio.c), [gpio.h](https://github.com/xkrato62/Digital-electronics_2/blob/main/Labs/Project1/Project1/lib/gpio/gpio.h)
+ 3. **LCD:** [lcd.c](https://github.com/xkrato62/Digital-electronics_2/blob/main/Labs/Project1/Project1/lib/lcd/lcd.c), [lcd.h](https://github.com/xkrato62/Digital-electronics_2/blob/main/Labs/Project1/Project1/lib/lcd/lcd.h), [lcd_definitions.h](https://github.com/xkrato62/Digital-electronics_2/blob/main/Labs/Project1/Project1/lib/lcd/lcd_definitions.h)
+ 4. **Source:** [main.c](https://github.com/xkrato62/Digital-electronics_2/blob/main/Labs/Project1/Project1/src/main.c)
+
+  The final project structure looks like this:
+   ```c
+   ├── include
+   │   └── timer.h
+   ├── lib
+   │   └── gpio
+   │       ├── gpio.c
+   │       └── gpio.h
+   |   └── lcd
+   │       ├── lcd.c
+   │       ├── lcd.h
+   │       └── lcd_definitions.h
+   └── src
+       └── main.c
+   ```
+
+### Software flowcharts
+
+--TADY BUDOU FLOWCHARTY
 
 <a name="functions"></a>
 
