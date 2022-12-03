@@ -19,6 +19,8 @@ Link to this file in your GitHub repository:
   * [Encoder](#encoderHW)
   * [LCD module](#LCDHW)
 * [Software and libraries](#libs)
+  * [Source files](#sourcefiles)
+  * [Flowcharts](#flowcharts)
 * [Functions](#functions)
   * [Joystick](#joystick)
     * [Position map](#positionmap)
@@ -129,6 +131,7 @@ Their biggest advantage is a considerably small energy consumption and therefor 
    | Timer | Hardware block within an MCU and can be used to measure time events | Determination of refresh time of display and code cycle, interrupt `sei()` |
    | AVR   | Predefined library of AVR microcontrollers | Basic functions for working with registers |
 
+<a name="sourcefiles"></a>
 
 ### Source files & libraries
 
@@ -152,6 +155,8 @@ Their biggest advantage is a considerably small energy consumption and therefor 
    └── src
        └── main.c
    ```
+
+<a name="flowcharts"></a>
 
 ### Software flowcharts
 
