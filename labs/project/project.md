@@ -146,6 +146,7 @@ First of our described functions is situated on the very left side of the displa
 Both rising/falling values have an intuitive working mechanism. With a certain inaccuracy in real implemantation - a starting value on *x* and *y* is 511 as shown in a simulation. Moving the joystick to the right, we are incrementing an **x** value. Naturally its decreasing turning the joystick left. Analogically, the **y** value changes with up/down direction.
 
 *Simulation of a function in SimulIDE:*
+
 https://user-images.githubusercontent.com/99370863/205430658-16d1d8f1-224c-498b-9b94-3377dcc3bb1b.mp4
 
 
