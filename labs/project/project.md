@@ -150,6 +150,8 @@ Both rising/falling values have an intuitive working mechanism. With a certain i
 
 *for a repeat of the sequence please click on the gif*
 
+https://user-images.githubusercontent.com/99370863/205430658-16d1d8f1-224c-498b-9b94-3377dcc3bb1b.mp4
+
 <a name="video"></a>
 
 ## Video
