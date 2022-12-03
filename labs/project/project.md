@@ -159,9 +159,11 @@ Their biggest advantage is a considerably small energy consumption and therefor 
 
 ![Flowchar2](pictures/flow2.png)
 
-![Flowchar3](pictures/flow3.png)
+![Flowchar3](pictures/flow4.png)
 
-![Flowchar4](pictures/flow4.png)
+![Flowchar5](pictures/flow5.png)
+
+![Flowchar4](pictures/flow3.png)
 
 <a name="functions"></a>
 
