@@ -137,7 +137,7 @@ Their biggest advantage is a considerably small energy consumption and therefor 
  3. **LCD:** [lcd.c](https://github.com/xkrato62/Digital-electronics_2/blob/main/Labs/Project1/Project1/lib/lcd/lcd.c), [lcd.h](https://github.com/xkrato62/Digital-electronics_2/blob/main/Labs/Project1/Project1/lib/lcd/lcd.h), [lcd_definitions.h](https://github.com/xkrato62/Digital-electronics_2/blob/main/Labs/Project1/Project1/lib/lcd/lcd_definitions.h)
  4. **Source:** [main.c](https://github.com/xkrato62/Digital-electronics_2/blob/main/Labs/Project1/Project1/src/main.c)
 
-  The final project structure looks like this:
+  *Project structure:*
    ```c
    ├── include
    │   └── timer.h
