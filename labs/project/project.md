@@ -193,7 +193,7 @@ https://user-images.githubusercontent.com/99370863/205431073-c662d4a0-6c09-45bc-
 * **Value counter up/down**
   * Function is explained within its own name. 
   * Rotating the encoder clockwise will always count +1 to the current value. Counter clockwise rotation decreases the value by -1.
-
+  * The range of values is not limited and therefor the value can be even negative *(shown in YT video)*
 
 *Simulation of a function in SimulIDE:*
 
@@ -202,9 +202,13 @@ https://user-images.githubusercontent.com/99370863/205442559-910f5966-f50c-4c51-
 <a name="alphabet"></a>
 
 * **Alphabet**
+  * If we decide to push the endocer, we push a button and enter uncover another function of out project.
+  * Each push makes an increment of a current value by +1 which not only shows the count but also the english alphabet above.
+  * When reached the maximum of 24 letters and button pushed once more, the sequence resets and is ready to continue.
 
+*Simulation of a function in SimulIDE:*
 
--------NĚCO NA ABECEDU-----
+https://user-images.githubusercontent.com/99370863/205442841-79843f0c-ba55-4371-bd9f-42fcfb23ff35.mp4
 
 
 <a name="video"></a>
