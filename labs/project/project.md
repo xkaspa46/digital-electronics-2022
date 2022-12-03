@@ -134,6 +134,7 @@ Their biggest advantage is a considerably small energy consumption and therefor 
  2. **Gpio:** [gpio.c](https://github.com/xkrato62/Digital-electronics_2/blob/main/Labs/Project1/Project1/lib/gpio/gpio.c), [gpio.h](https://github.com/xkrato62/Digital-electronics_2/blob/main/Labs/Project1/Project1/lib/gpio/gpio.h)
  3. **LCD:** [lcd.c](https://github.com/xkrato62/Digital-electronics_2/blob/main/Labs/Project1/Project1/lib/lcd/lcd.c), [lcd.h](https://github.com/xkrato62/Digital-electronics_2/blob/main/Labs/Project1/Project1/lib/lcd/lcd.h), [lcd_definitions.h](https://github.com/xkrato62/Digital-electronics_2/blob/main/Labs/Project1/Project1/lib/lcd/lcd_definitions.h)
  4. **Source:** [main.c](https://github.com/xkrato62/Digital-electronics_2/blob/main/Labs/Project1/Project1/src/main.c)
+ 5. **Hex** [firmware.hex](https://github.com/xkrato62/Digital-electronics_2/blob/main/Labs/Project1/Project1/.pio/build/uno/firmware.hex)
 
   *Project structure:*
    ```c
