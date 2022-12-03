@@ -142,9 +142,8 @@ Their biggest advantage is a considerably small energy consumption and therefor 
 <a name="positionmap"></a>
 
 * **Position map**
-
-First of our described functions is situated on the very left side of the display where it shows us via **x:___** and **y:___** corresponding coordinates on an imaginary map. These coordinates are naturally equal to the value meassured by analog inputs **A0** and **A1**. Meassured value can only be from a scale from 0 to 1024. 
-Both rising/falling values have an intuitive working mechanism. With a certain inaccuracy in real implemantation - a starting value on *x* and *y* is 511 as shown in a simulation. Moving the joystick to the right, we are incrementing an **x** value. Naturally its decreasing turning the joystick left. Analogically, the **y** value changes with up/down direction.
+  * First of our described functions is situated on the very left side of the display where it shows us via **x:___** and **y:___** corresponding coordinates on an imaginary map. These coordinates are naturally equal to the value meassured by analog inputs **A0** and **A1**. Meassured value can only be from a scale from 0 to 1024. 
+  * Both rising/falling values have an intuitive working mechanism. With a certain inaccuracy in real implemantation - a starting value on *x* and *y* is 511 as shown in a simulation. Moving the joystick to the right, we are incrementing an **x** value. Naturally its decreasing turning the joystick left. Analogically, the **y** value changes with up/down direction.
 
 *Simulation of a function in SimulIDE:*
 
@@ -153,8 +152,7 @@ https://user-images.githubusercontent.com/99370863/205430658-16d1d8f1-224c-498b-
 
 <a name="buttondetect"></a>
 * **Button detection**
-* 
-Next to the left side of the BUT logo, we have our second function associated with the joystick. This time, it has to be pushed down in order to detect a voltage change. Once detected, the controller is told to change the current state of a segment to the second one (either 0 or 1).
+  * Next to the left side of the BUT logo, we have our second function associated with the joystick. This time, it has to be pushed down in order to detect a voltage change. Once detected, the controller is told to change the current state of a segment to the second one (either 0 or 1).
 
 *Simulation of a function in SimulIDE:*
 
