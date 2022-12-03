@@ -5,11 +5,6 @@
 * Tomáš Kašpar (responsible for coding)
 * Dušan Kratochvíl (responsible for documentation and voice narration)
 
-
-Link to this file in your GitHub repository:
-
-[Project](https://github.com/xkaspa46/digital-electronics-2022/blob/main/labs/project/project.md)
-
 ### Table of contents
 
 * [Project objectives](#objectives)
@@ -160,7 +155,13 @@ Their biggest advantage is a considerably small energy consumption and therefor 
 
 ### Software flowcharts
 
---TADY BUDOU FLOWCHARTY
+![Flowchar1](pictures/flow1.png)
+
+![Flowchar2](pictures/flow2.png)
+
+![Flowchar3](pictures/flow3.png)
+
+![Flowchar4](pictures/flow4.png)
 
 <a name="functions"></a>
 
