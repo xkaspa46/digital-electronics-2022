@@ -155,6 +155,8 @@ Their biggest advantage is a considerably small energy consumption and therefor 
 
 ### Software flowcharts
 
+*Note: Flowcharts 2-4 are all part of a one function but -again- are separated for better orientation*
+
 ![Flowchar1](pictures/flow1.png)
 
 ![Flowchar2](pictures/flow2.png)
