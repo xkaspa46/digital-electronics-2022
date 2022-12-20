@@ -10,6 +10,7 @@
 * [Project objectives](#objectives)
 * [Hardware](#hardware)
   * [Servo motor](#servo)
+  * [Wiring](#wiring)
 * [Software and libraries](#libs)
   * [Source files](#sourcefiles)
   * [Flowcharts](#flowcharts)
@@ -44,6 +45,10 @@ This section is reserved for a short description of each element our project is 
 ![Servo](images/servo.jpg)
 
 <a name="joystickHW"></a>
+
+### Wiring
+
+<a name="wiring"></a>
 
 
 <a name="libs"></a>
