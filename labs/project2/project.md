@@ -2,7 +2,7 @@
 
 ### Team members
 
-* Tomáš Kašpar (responsible for documentation and voice narration)
+* Tomáš Kašpar (responsible for documentation)
 * Dušan Kratochvíl (responsible for coding)
 
 ### Table of contents
