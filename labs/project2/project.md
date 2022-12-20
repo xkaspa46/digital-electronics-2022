@@ -31,7 +31,7 @@ Applicaton of modules was set in this order:
 
 ## Brief hardware of description Servo motor and schematic
 
-This section is reserved for a short description of each element our project is composed of. It also includes separated wiring schemes corresponding to each one of used hardware for better orientation.
+This section is reserved for a short description of an element our project is composed of. It also includes wiring scheme.
 
 <a name="servo"></a>
 
@@ -66,10 +66,10 @@ This section is reserved for a short description of each element our project is 
 
 ### Source files & libraries
 
- 1. **Timer:** [timer.h](https://github.com/xkrato62/Digital-electronics_2/blob/main/Labs/Project1/Project1/include/timer.h)
- 2. **Gpio:** [gpio.c](https://github.com/xkrato62/Digital-electronics_2/blob/main/Labs/Project1/Project1/lib/gpio/gpio.c), [gpio.h](https://github.com/xkrato62/Digital-electronics_2/blob/main/Labs/Project1/Project1/lib/gpio/gpio.h)
- 3. **Source:** [main.c](https://github.com/xkrato62/Digital-electronics_2/blob/main/Labs/Project1/Project1/src/main.c)
- 4. **Hex** [firmware.hex](https://github.com/xkrato62/Digital-electronics_2/blob/main/Labs/Project1/Project1/.pio/build/uno/firmware.hex)
+ 1. **Timer:** [timer.h](https://github.com/xkrato62/Digital-electronics_2/blob/main/Labs/project_2/include/timer.h)
+ 2. **Gpio:** [gpio.c](https://github.com/xkrato62/Digital-electronics_2/blob/main/Labs/project_2/lib/gpio/gpio.c), [gpio.h](https://github.com/xkrato62/Digital-electronics_2/blob/main/Labs/project_2/lib/gpio/gpio.h)
+ 3. **Source:** [main.c](https://github.com/xkrato62/Digital-electronics_2/blob/main/Labs/project_2/src/main.c)
+ 4. **Hex** [firmware.hex](https://github.com/xkrato62/Digital-electronics_2/blob/main/Labs/project_2/firmware.hex)
 
   *Project structure:*
    ```c
