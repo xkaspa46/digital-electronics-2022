@@ -13,13 +13,7 @@
 * [Software and libraries](#libs)
   * [Source files](#sourcefiles)
   * [Flowcharts](#flowcharts)
-* [Functions](#functions)
-  * [Joystick](#joystick)
-    * [Position map](#positionmap)
-    * [Button detection](#buttondetect)
-  * [Encoder](#encoder)
-    * [Value counter up/down](#counter)
-    * [Alphabet](#alphabet)
+* [Function - Wiper drive](#functions)
 * [Video](#video)
 * [References](#references)
 
@@ -42,11 +36,12 @@ This section is reserved for a short description of each element our project is 
 
 ### Servo motor
 
-It is a development board consisting of ATmega328 microcontroller, 14 digital GPIO pins (6 PWM), 6 analog input pins, 16 MHz crystal oscilator, built-in pre-defined UART etc. Programmed via USB 2.0, it has 32 kB flash memory (0.5 kB for bootloader). 
+* Servo motor, unlike conventional motor is capable of setting the rotation at exact position. Even tho the servo is allowing us to be more accurate, it is also capable of a small rotation speed.
+* In our application we use PWM (Phase-Width Modulation) in order to control the end positions.
 
-*We can see a look of the board below:*
+*We can see a look of a 5V servomotor below:*
 
-![Arduino](pictures/ArduinoBoard2.jpg)
+![Arduino](pictures/servo.jpg)
 
 <a name="joystickHW"></a>
 
@@ -117,5 +112,4 @@ It is a development board consisting of ATmega328 microcontroller, 14 digital GP
 * [1. GPIO](https://github.com/mikaelpatel/Arduino-GPIO)
 * [2. doc. Ing. Fryza Ph.D. DE2 - 2022 Labs](https://github.com/tomas-fryza/digital-electronics-2/tree/master/labs)
 * [3. Joystick](https://navody.dratek.cz/navody-k-produktum/arduino-joystick-ps2.html)
-* [4. Encoder](https://howtomechatronics.com/tutorials/arduino/rotary-encoder-works-use-arduino/?fbclid=IwAR1UxOQv36Y3HIfpMDaVhkYf1JpnIz0Ywbn_U0N9zagLQHEsaXvEKFfGdwQ)
-* [5. Digilent official website](https://projects.digilentinc.com/products/pmod-clp)
+* [4. Servo](https://www.electronicwings.com/arduino/servo-motor-interfacing-with-arduino-uno)
