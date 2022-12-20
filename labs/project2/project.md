@@ -50,6 +50,7 @@ This section is reserved for a short description of each element our project is 
 
 <a name="wiring"></a>
 
+![Wiring](images/wiring.png)
 
 <a name="libs"></a>
 
