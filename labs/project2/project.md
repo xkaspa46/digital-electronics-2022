@@ -58,7 +58,7 @@ This section is reserved for a short description of each element our project is 
    | **Library name** | **Brief description** | **Usage in our code** |
    | :-: | :-: | :-: |
    | GPIO  | Allowing high performance digital pin access | Setting Input/Output of a pin and reading its values |
-   | Timer | Hardware block within an MCU and can be used to measure time events | Determination of refresh time of display and code cycle, interrupt `sei()` |
+   | Timer | Hardware block within an MCU and can be used to measure time events | PWM |
    | AVR   | Predefined library of AVR microcontrollers | Basic functions for working with registers |
 
 <a name="sourcefiles"></a>
