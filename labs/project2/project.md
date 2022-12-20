@@ -100,8 +100,11 @@ This section is reserved for a short description of an element our project is co
 <a name="functions"></a>
 
 ## Functions
+* In our application we consider a servo motor as a driver for a windshield wiper similar to those used in real cars.
+* Nowadays wipers use DC motors with permanent magnets and two push-buttons on end positions to oscilate between these two borders.
+* Considering the servo motor is capable of high accuracy, the push-buttons might not be no longer needed.
 
-<a name="joystick"></a>
+![Wipers](images/wipers.jpg)
 
 
 
