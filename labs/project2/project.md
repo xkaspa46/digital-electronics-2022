@@ -103,12 +103,15 @@ This section is reserved for a short description of an element our project is co
 * In general
   * In our application we consider a servo motor as a driver for a windshield wiper similar to those used in real cars.
   * Nowadays wipers use DC motors with permanent magnets and two push-buttons on end positions to oscilate between these two borders.
+  * Considering the servo motor is capable of high accuracy, the push-buttons might not be no longer needed.
  
 ![Wipers](images/wipers.jpg)
 
-  * Considering the servo motor is capable of high accuracy, the push-buttons might not be no longer needed.
 * Controll
-  * If we decide to 
+  * If we decide to push the button, the motors start to oscilate between two borders at a certain angle corresponding to real car windshield (about 110°).
+  * Second push of the button will then increse the speed by two.
+  * Third one will turn off the wipers completely and they will automatically return to a starting position.
+  * The whole cycle may start again.
 
 
 <a name="video"></a>
