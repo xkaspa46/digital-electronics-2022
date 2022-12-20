@@ -87,15 +87,12 @@ This section is reserved for a short description of an element our project is co
 
 ### Software flowcharts
 
-![Flowchar1](pictures/flow1.png)
+![Flowchar1](images/main.png)
 
-![Flowchar2](pictures/flow2.png)
+![Flowchar2](images/servo_move.png)
 
-![Flowchar3](pictures/flow4.png)
+![Flowchar3](images/switch_button.png)
 
-![Flowchar5](pictures/flow5.png)
-
-![Flowchar4](pictures/flow3.png)
 
 <a name="functions"></a>
 
