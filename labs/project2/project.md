@@ -41,7 +41,7 @@ This section is reserved for a short description of each element our project is 
 
 *We can see a look of a 5V servomotor below:*
 
-![Arduino](pictures/servo.jpg)
+![Servo](images/servo.jpg)
 
 <a name="joystickHW"></a>
 
