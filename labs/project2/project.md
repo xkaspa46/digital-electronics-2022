@@ -118,7 +118,11 @@ This section is reserved for a short description of an element our project is co
 
 ## Video
 
-[YT video with narration](https://youtu.be/0WYqbr4WcUk)🎞🎥📀
+
+
+https://user-images.githubusercontent.com/99370863/208642116-ad83afc5-2624-4170-a5bb-100dac1fee2f.mp4
+
+
 
 <a name="references"></a>
 
